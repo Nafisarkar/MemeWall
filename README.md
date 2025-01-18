@@ -9,7 +9,7 @@ This project, built with React, Tailwind CSS, and Shadcn UI, showcases the top 1
 
 *   Displays the top 100 trending memes in a visually appealing format
 *   Memes are updated in real-time to reflect the latest trends
-*   
+
 
 ## Todo
 * [ ] like system for each meme
