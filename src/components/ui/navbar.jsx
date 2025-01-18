@@ -10,7 +10,7 @@ const navbar = () => {
         md:pl-10
         "
       >
-        MEEMWALL.top
+        MEMEWALL.top
         <p className="text-white font-mono text-xs">
           Created by{" "}
           <a
