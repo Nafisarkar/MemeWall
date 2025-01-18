@@ -9,6 +9,12 @@ This project, built with React, Tailwind CSS, and Shadcn UI, showcases the top 1
 
 *   Displays the top 100 trending memes in a visually appealing format
 *   Memes are updated in real-time to reflect the latest trends
+*   
+
+## Todo
+* [ ] like system for each meme
+* [ ] Share memes on social media platforms
+
 
 ## Mention
 *   This code is free to use, modify, and distribute as per the [MIT License](https://github.com/itszed0/memewall/blob/main/LICENSE)
