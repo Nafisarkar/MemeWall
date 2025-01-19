@@ -13,8 +13,8 @@ Live at: https://meme-wall.vercel.app/
 
 
 ## Todo
-* [ ] like system for each meme
-* [ ] Share memes on social media platforms
+* [✓] like system for each meme
+* [✓] Share memes on social media platforms
 
 
 ## Mention
