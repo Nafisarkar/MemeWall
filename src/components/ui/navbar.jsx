@@ -12,12 +12,13 @@ const navbar = () => {
       >
         MEMEWALL.top
         <p className="text-white font-mono text-xs">
-          Created by{" "}
+          From{" "}
           <a
             href="https://github.com/Nafisarkar"
             className="underline
           bg-gradient-to-r from-[#4158D0] via-[#C850C0] to-[#FFCC70] text-transparent bg-clip-text animate-gradient
           text-bold
+          hover:text-white
           "
           >
             Shaon An Nafi
@@ -29,7 +30,7 @@ const navbar = () => {
         onClick={() => {
           window.location.href = "https://github.com/Nafisarkar";
         }}
-        className="cursor-pointer shadow-lg transition-shadow duration-300 hover:shadow-2xl hover:shadow-glow md:mr-11"
+        className="cursor-pointer shadow-lg transition-all duration-500 hover:transform hover:scale-[1.3] md:mr-11"
       >
         <AvatarImage src="https://i.ibb.co.com/SBGmPsk/github-logo.png" />
         <AvatarFallback>Github</AvatarFallback>
