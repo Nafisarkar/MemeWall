@@ -93,6 +93,7 @@ export default {
         lato: ["Lato", "sans-serif"],
         poppins: ["Poppins", "sans-serif"],
         caveat: ["Caveat", "cursive"],
+        notobangla: ["Noto Sans Bengali", "sans-serif"],
       },
     },
   },

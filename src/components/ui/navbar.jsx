@@ -6,11 +6,11 @@ const navbar = () => {
       <h1
         className="font-extrabold lg:text-5xl
         text-3xl
-        font-poppins  bg-gradient-to-r from-[#4158D0] via-[#C850C0] to-[#FFCC70] text-transparent bg-clip-text animate-gradient
+        font-notobangla  bg-gradient-to-r from-[#4158D0] via-[#C850C0] to-[#FFCC70] text-transparent bg-clip-text animate-gradient
         md:pl-10
         "
       >
-        MEMEWALL.top
+        MEMEদেয়াল.top
         <p className="text-white font-mono text-xs">
           From{" "}
           <a
