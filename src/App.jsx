@@ -27,11 +27,6 @@ function App() {
       lenis.current.destroy();
     };
   }, []);
-
-  const scrollToSection = (id) => {
-    const element = document.getElementById(id);
-    lenis.current.scrollTo(element);
-  };
   return (
     <>
       <Navbar />
